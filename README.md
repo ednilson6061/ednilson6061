@@ -1,5 +1,5 @@
 ## Hi, I am Ednilson!👋
-## Sou Estudante de Técnico em Desenvolvimento de Sistemas na instituição SENAC.
+## Sou Estudante de Técnico em Desenvolvimento de Sistemas.
 ### 🛠 Tecnologias e Ferramentas
 Aqui estão algumas das tecnologias que estou estudando no curso e já estudei:
 <div align="center">
